@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# models 
+saved_models/
+*.pyc
+*.pkl
+*.bin
+*.h5
+*.pt
+ai_agent_env/
